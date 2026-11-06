@@ -1,0 +1,184 @@
+CarWashManagementSystem\CarWashManagementSystem.csproj.user	user-specific Visual Studio settings
+CarWashManagementSystem\DBCarWash.mdf	database or generated backup/log file
+CarWashManagementSystem\DBCarWash_log.ldf	database or generated backup/log file
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\.signature.p7s	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0.nupkg	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\.signature.p7s	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\Microsoft.SqlServer.Types.14.0.314.76.nupkg	NuGet packages restored from packages.config
+.vs\CarWashManagementSystem\FileContentIndex\47b4f92a-311f-4355-8fd9-2402496445c7.vsidx	.vs generated settings
+.vs\CarWashManagementSystem\FileContentIndex\84c530b7-a181-466e-a5b0-c7568aad9952.vsidx	.vs generated settings
+.vs\CarWashManagementSystem\FileContentIndex\9ae78e30-a948-4f51-bbd0-4aaa59edff48.vsidx	.vs generated settings
+.vs\CarWashManagementSystem\FileContentIndex\b0a2e7d9-4a18-48fd-8420-57fc8141362c.vsidx	.vs generated settings
+.vs\CarWashManagementSystem\FileContentIndex\fad182e3-1681-4d34-898b-4c8c7c68ffe9.vsidx	.vs generated settings
+.vs\CarWashManagementSystem\v16\.suo	.vs generated settings
+.vs\CarWashManagementSystem\v17\.suo	.vs generated settings
+.vs\CarWashManagementSystem\v17\DocumentLayout.backup.json	.vs generated settings
+.vs\CarWashManagementSystem\v17\DocumentLayout.json	.vs generated settings
+CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe	bin build output
+CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config	bin build output
+CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb	bin build output
+CarWashManagementSystem\bin\Debug\DBCarWash.mdf	bin build output
+CarWashManagementSystem\bin\Debug\DBCarWash_log.ldf	bin build output
+CarWashManagementSystem\bin\Debug\EnvDTE.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll	bin build output
+CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll	bin build output
+CarWashManagementSystem\bin\Debug\stdole.dll	bin build output
+CarWashManagementSystem\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs	obj build output
+CarWashManagementSystem\obj\Debug\CarWashM.2D7AA957.Up2Date	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CopyComplete	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.FileListAbsolute.txt	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe.config	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources	obj build output
+CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources	obj build output
+CarWashManagementSystem\obj\Debug\DesignTimeResolveAssemblyReferences.cache	obj build output
+CarWashManagementSystem\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache	obj build output
+CarWashManagementSystem\obj\Debug\RdlCompile.cache	obj build output
+CarWashManagementSystem\obj\Debug\RdlCompile.compiled	obj build output
+CarWashManagementSystem\obj\Verify\CarWashManagementSystem.csproj.AssemblyReference.cache	obj build output
+CarWashManagementSystem\obj\Verify\CarWashManagementSystem.csproj.FileListAbsolute.txt	obj build output
+CarWashManagementSystem\obj\Verify\CarWashManagementSystem.csproj.GenerateResource.cache	obj build output
+CarWashManagementSystem\obj\Verify\CarWashManagementSystem.receipt.resources	obj build output
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\license\License_ReportViewer.rtf	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\license\ThirdPartyNotices_ReportViewer.txt	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\license\license_SysClrTypes.rtf	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\tools\install.ps1	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\tools\uninstall.ps1	NuGet packages restored from packages.config
+.vs\CarWashManagementSystem\CopilotIndices\17.14.1601.40145\CodeChunks.db	.vs generated settings
+.vs\CarWashManagementSystem\CopilotIndices\17.14.1601.40145\SemanticSymbols.db	.vs generated settings
+.vs\CarWashManagementSystem\v17\ResourceExplorer\settings.json	.vs generated settings
+CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\Reports\rptReceipt.rdlc	bin build output
+CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll	bin build output
+CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll	bin build output
+CarWashManagementSystem\obj\Debug\TempPE\DataSet1.Designer.cs.dll	obj build output
+CarWashManagementSystem\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll	obj build output
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\content\SqlServerTypes\Loader.cs	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\content\SqlServerTypes\readme.htm	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\nativeBinaries\x64\msvcr120.dll	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\nativeBinaries\x64\SqlServerSpatial140.dll	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\nativeBinaries\x86\msvcr120.dll	NuGet packages restored from packages.config
+packages\Microsoft.SqlServer.Types.14.0.314.76\nativeBinaries\x86\SqlServerSpatial140.dll	NuGet packages restored from packages.config
+CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll	bin build output
+CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll	bin build output
+CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll	bin build output
+CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll	bin build output
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\de\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\de\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\de\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\de\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\es\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\es\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\es\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\es\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\fr\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\fr\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\fr\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\fr\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\it\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\it\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\it\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\it\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ja\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ja\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ja\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ja\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ko\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ko\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ko\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ko\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\pt\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\pt\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\pt\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\pt\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ru\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ru\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ru\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\ru\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHS\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHS\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHT\Microsoft.ReportViewer.Common.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHT\Microsoft.ReportViewer.Design.resources.dll	NuGet packages restored from packages.config
+packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll	NuGet packages restored from packages.config

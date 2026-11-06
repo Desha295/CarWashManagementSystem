@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+
+# Build outputs and test results
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# NuGet restored packages (restored from packages.config)
+packages/
+
+# Local databases, generated backups, and logs
+*.mdf
+*.ldf
+*.bak
+*.log
+*.tmp
+
+# Local secrets and signing credentials
+.env
+.env.*
+!.env.example
+secrets.json
+*.pfx
+*.p12
+*.pem
+*.key
+*.snk
+*.publishsettings
+*.pubxml.user

@@ -313,6 +313,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DBCarWash.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DBCarWash_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>DBCarWash.mdf</DependentUpon>
+    </Content>
     <Content Include="images\Add car_30px.png" />
     <Content Include="images\add_user_male_30Cpx.png" />
     <Content Include="images\add_user_male_30px.png" />

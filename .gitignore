@@ -4,22 +4,24 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.cache
 
-# Build outputs and test results
+# Build outputs and temporary files
 [Bb]in/
 [Oo]bj/
 TestResults/
+*.cache
+*.tmp
 
-# NuGet restored packages (restored from packages.config)
+# NuGet packages restored from packages.config
 packages/
 
-# Local databases, generated backups, and logs
+# Local databases, backups, and logs (keep the project database files)
 *.mdf
 *.ldf
 *.bak
 *.log
-*.tmp
+!CarWashManagementSystem/DBCarWash.mdf
+!CarWashManagementSystem/DBCarWash_log.ldf
 
 # Local secrets and signing credentials
 .env
